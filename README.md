@@ -17,13 +17,24 @@
 
 ### Hello, I'm Thư
 
-I'm exploring frontend development through React and React Native projects. My repositories include web interfaces, a mobile health-tracking app, a Java backend, and a Unity game.
+I'm exploring frontend development through React and React Native projects. My work includes frontend contributions to a team pet-shop website, web interfaces, and a mobile health-tracking course project.
 
 This profile highlights selected projects first, with weekly exercises collected separately for anyone interested in my learning progress.
 
 ### Selected projects
 
-#### 01 / Ginkgo · Personal health tracking
+#### 01 / Petshop · Team e-commerce project
+
+A pet-shop website developed as a team project for the Software Architecture course.
+
+**Role: Frontend Contributor** · React · JavaScript · Vite · React Router · Axios
+
+- Contributed to the React frontend in a shared team repository.
+- Frontend contributions include category-management screens and checkout/order-detail UI updates.
+
+[Explore the frontend branch →](https://github.com/minhhoanghtm/Petshop-website/tree/front-end) &nbsp; [My commits](https://github.com/minhhoanghtm/Petshop-website/commits/front-end/?author=thu-ringo)
+
+#### 02 / Ginkgo · Personal health tracking
 
 A mobile course project for recording health metrics, viewing trends, and scheduling medication reminders.
 
@@ -35,7 +46,7 @@ A mobile course project for recording health metrics, viewing trends, and schedu
 
 [Explore the project →](https://github.com/thu-ringo/GinkgoHealthyApp) &nbsp; [Setup guide](https://github.com/thu-ringo/GinkgoHealthyApp/blob/main/HUONG_DAN_CHAY.md)
 
-#### 02 / Movie Explorer · Movie discovery interface
+#### 03 / Movie Explorer · Movie discovery interface
 
 A React web project for browsing trending and top-rated movies, searching titles, and opening trailers.
 
@@ -45,28 +56,6 @@ A React web project for browsing trending and top-rated movies, searching titles
 - Shared trailer state with React Context and a video modal.
 
 [Explore the project →](https://github.com/thu-ringo/movie)
-
-#### 03 / Restaurant Management · Java backend
-
-A backend course project for restaurant records and table reservations, with JSON requests and responses over TCP sockets.
-
-**Java · Spring Boot · Spring Data JPA · MariaDB · Maven**
-
-- Services and repositories for tables, customers, dishes, and reservations.
-- Reservation creation and cancellation with table-status updates.
-
-[Explore the project →](https://github.com/thu-ringo/QuanLyNhaHang_JavaPT) &nbsp; [Technical README](https://github.com/thu-ringo/QuanLyNhaHang_JavaPT/blob/main/nhahang-server/README.md)
-
-<details>
-<summary><b>Also exploring: Rune Bastion · Unity game development</b></summary>
-
-A 2D defense game featuring elemental spells, enemy waves, upgrades, and a boss encounter.
-
-**Unity · C#**
-
-[Explore Rune Bastion →](https://github.com/thu-ringo/GameRuneBastion)
-
-</details>
 
 ### Technologies
 
